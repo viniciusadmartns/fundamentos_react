@@ -1,2 +1,2 @@
-# fundamentos_react
-aulas de react
+# learn_react
+aprendendo de react
